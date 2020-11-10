@@ -122,6 +122,7 @@ justify-content: center;
   margin-bottom: 50px;
   margin-right: 50px
 }
+/* ref https://www.w3schools.com/howto/howto_css_contact_form.asp*/
 
 .form h1 {
   margin-bottom: 20px;
@@ -137,7 +138,7 @@ input[type=text], textarea {
   margin-bottom: 16px;
   resize: vertical;
 }
-
+/* ref https://www.w3schools.com/howto/howto_css_contact_form.asp*/
 input[type=submit] {
   background-color: #A68C2C;
   color: white;
@@ -147,10 +148,12 @@ input[type=submit] {
   cursor: pointer;
   margin-bottom: 85px;
 }
+/* ref https://www.w3schools.com/howto/howto_css_contact_form.asp*/
 
 input[type=submit]:hover {
   background-color: #CAC3A7;
 }
+/* ref https://www.w3schools.com/howto/howto_css_contact_form.asp*/
 
 img {
   margin: 100px 90px 80px -25px;
