@@ -207,6 +207,25 @@ img {
   margin-bottom: 15px;
 }
 
+
+@media only screen and (max-width:1277px){
+  nav {
+    width: 100%;
+
+  }
+  ul li {
+    width: 100%;
+    margin: 0px 10px 0px 10px; 
+
+  }
+
+  ul li a {
+    width: 100%;
+
+  }
+}
+
+
 @media only screen and (max-width:1178px){
   .form {
     width: 100%;
@@ -215,7 +234,7 @@ img {
     margin-top: 325px;
     margin-left:10px;
   }
-  }
+}
 
 @media only screen and (max-width:850px){
 nav {
